@@ -1,4 +1,6 @@
-### Introduction
+## Introduction
+
+### Introduction to Java
 
 #### Scope
 
@@ -14,7 +16,7 @@
   4. JDK http://en.wikipedia.org/wiki/Java_Development_Kit
   5. Java bytecode http://en.wikipedia.org/wiki/Java_bytecode
   6. Java compiler https://en.wikipedia.org/wiki/Javac
-3. Git basics
+3. Git basics [6][7]
 4. Theory
   1. Java languadge syntax, structure, separators, operators [1][3][5]
   2. Types, Values, and Variables [2][4][5]
@@ -45,3 +47,5 @@ Difference between basic types and primitives? Why we need them both? Why we nee
 3. Sierra, K, & Bates, B. (). 1 Declarations and Access Control. SCJP Sun® Certified Programmer for JavaTM 6 Study Guide (pp. 1-84).
 4. Sierra, K, & Bates, B. (). 3 Assignments, 4 Operators. SCJP Sun® Certified Programmer for JavaTM 6 Study Guide (pp. 183-326).
 5. Eckel, B. (2006). Operators, Controlling Execution. Thinking in Java Fourth Edition. (pp. 63-106) ISBN 0-13-187248-6.
+6. Git basic interactive course on from Gitub: https://try.github.io/levels/1/challenges/1
+7. Chacon, S., & Straub, B. (). Chapters 1-4. Book on git-scm, Pro Git. Retrieved from: http://git-scm.com/book/en/v2/
