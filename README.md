@@ -32,7 +32,7 @@
     - commit into local branch
     - push into your remote repository
     - create pull request to your study repository
-  3. Add input from terminal, check-in, create review
+  3. Add input from terminal, commit to local, push to remote, create pull request
 
 #### Questions to discuss
 
