@@ -9,7 +9,7 @@
   2. Install IDE
   3. Fork/Create git repository
   4. Download repository
-2. Introduction into Java
+2. Introduction to Java
   1. Java programming languadge http://en.wikipedia.org/wiki/Java_(programming_language)
   2. Java platform http://en.wikipedia.org/wiki/Java_(software_platform)
   3. Java virtual machine http://en.wikipedia.org/wiki/Java_virtual_machine
@@ -26,18 +26,28 @@
 #### Code Tasks
 
 1. Basic
-  1. Create simple project with HelloWorld and check-in it
-  2. Create simple project, only main(), solve equation “ax^2 + bx + c = 0”, check-in, create review
+  1. Create simple project in IDE with HelloWorld and check-in it
+  2. In project from p. 2. implement the following:
+    - solve equation "ax^2 + bx + c = 0"
+    - commit into local branch
+    - push into your remote repository
+    - create pull request to your study repository
   3. Add input from terminal, check-in, create review
 
 #### Questions to discuss
 
 What is Java and why we need Java?
+
 What is Git?
+
 Other VCS than Git?
-Why we need VCS? Think about collaborative work
+
+Why we need VCS? Think about collaborative work.
+
 Why we need code review?
+
 What is "extreme programming"? Which principles used?
+
 Difference between basic types and primitives? Why we need them both? Why we need primitive types?
 
 #### Materials
