@@ -67,7 +67,9 @@ Difference between basic types and primitives? Why we need them both? Why we nee
 ### Task:
 
 Given File with English symbols
+
 When I substitute English symbols with Russian in the file
+
 Then All English symbols should be replaced by Russian ones
 
 1. Making testing sandbox:
