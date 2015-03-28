@@ -1,6 +1,6 @@
 ## Introduction
 
-### Introduction to Java
+### Part 1, Introduction to Java
 
 #### Scope
 
@@ -59,3 +59,18 @@ Difference between basic types and primitives? Why we need them both? Why we nee
 5. Eckel, B. (2006). Operators, Controlling Execution. Thinking in Java Fourth Edition. (pp. 63-106) ISBN 0-13-187248-6.
 6. Git basic interactive course on from Gitub: https://try.github.io/levels/1/challenges/1
 7. Chacon, S., & Straub, B. (). Chapters 1-4. Book on git-scm, Pro Git. Retrieved from: http://git-scm.com/book/en/v2/
+
+
+
+-------------------
+
+### Task:
+
+Given File with English symbols
+When I substitute English symbols with Russian in the file
+Then All English symbols should be replaced by Russian ones
+
+1. Making testing sandbox:
+  1. Implement or use existing simple algorithm for analyzing substitution in the target file depends on based file.
+  2. Create correct base file with substituted symbols to evaluating generated file against base file
+  3. Using basic alorithm generate simultaneously 2 files with random symbols: 1st file with English ones and 2nd with appropriate Russian ones.
